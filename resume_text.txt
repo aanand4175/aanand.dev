@@ -1,0 +1,81 @@
+   
+ 
+AANAND KUMAR 
+  +91 8825314845 | Patna, Bihar | aanand4175@gmail.com 
+LINKEDIN | GITHUB 
+ 
+PROFESSIONAL SUMMARY 
+ 
+React Native Developer with 4+ years of experience building scalable Android & iOS applications used by 
+thousands of users across government, fintech, and enterprise domains. Experienced in real-time systems, face 
+recognition systems, and high-performance mobile architectures. Proven ability to optimize performance, 
+reduce load time, and deliver production-ready apps. 
+ 
+SKILLS 
+ 
+Core: React Native, JavaScript (ES6+), TypeScript  
+State Management: Redux Toolkit, Redux, Zustand 
+Backend & APIs: Firebase, REST APIs, Supabase 
+AI/ML: ML Kit, TensorFlow Lite (Face Recognition)  
+Native Development: Android (Java/Kotlin)  
+Tools & DevOps: Git, GitHub, Postman, SonarQube  
+Platforms: Android Studio, Xcode, Play Store, App Store Connect 
+Soft Skills: Leadership, Team Collaboration, Problem Solving, Time Management 
+ 
+WORK EXPERIENCE 
+ 
+React Native Developer, Codebucket Solutions Pvt. Ltd. - Patna, Bihar                          Feb 2024 – Present 
+⁠•⁠ Leading development of a large-scale state government digital platform (Bihar) 
+•⁠ ⁠Built real-time chat system using Firebase & WebSocket 
+•⁠ Implemented face recognition system using ML Kit + TensorFlow Lite 
+•⁠ Developed AR-based navigation module for enhanced user interaction 
+•⁠ ⁠Improved app performance by 30% and reduced load time by optimizing rendering and API handling 
+•⁠ ⁠Ensured code quality using SonarQube and conducted code reviews 
+•⁠ ⁠Collaborated with cross-functional teams in Agile environment 
+ 
+React Native Developer, CFCS Cloud Solutions - Noida, India                                    Feb 2022 – Feb 2024 
+•⁠ ⁠Developed applications across CSMS, HRMS, and Fintech domains 
+•⁠ ⁠Implemented scalable state management using Redux Toolkit 
+•⁠ ⁠Integrated secure REST APIs and authentication flows 
+•⁠ ⁠Implemented Firebase push notifications for real-time engagement 
+•⁠ ⁠Deployed apps on Play Store and App Store 
+•⁠ ⁠Improved UI responsiveness by ~25% by reducing unnecessary re-renders 
+ 
+   
+ 
+PROJECTS 
+ 
+State Government Digital Platform (Bihar) 
+•⁠ Developed real-time communication system supporting 1k+ users  
+•⁠ ⁠Built face recognition system for attendance & authentication  
+•⁠ ⁠Implemented AR-based navigation for improved user onboarding  
+•⁠ ⁠Play Store: https://play.google.com/store/apps/details?id=com.bipardadmin  
+⁠Tech: React Native, Firebase, WebSocket, TensorFlow Lite, ML Kit 
+ 
+Fuji CSMS 
+•⁠ ⁠Built customer service management system for request tracking  
+•⁠ ⁠Designed scalable architecture for multi-user handling  
+•⁠ ⁠Play Store: https://play.google.com/store/apps/details?id=com.fuji.cms  
+Tech: React Native, Redux Toolkit, Firebase, REST APIs 
+Bharat Bank (Fintech App) 
+•⁠ ⁠Developed UPI-based application for payments, recharge & bill services  
+•⁠ ⁠Integrated secure APIs for financial transactions  
+•⁠ ⁠Play Store: https://play.google.com/store/apps/details?id=com.onestack.bharatbank  
+Tech: React Native, Redux, API Integration 
+Omada eHRMS 
+•⁠ ⁠Built attendance & HR management system with geo-location tracking  
+•⁠ ⁠Integrated Google Maps for location-based features  
+•⁠ ⁠Play Store: https://play.google.com/store/apps/details?id=com.cfcs.app.omada  
+⁠Tech: React Native, Firebase, Google Maps 
+ 
+ACHIEVEMENTS 
+ 
+•⁠ Improved application performance by up to 30% across production apps 
+•⁠ Enhanced UI responsiveness by ~25% 
+•⁠ Delivered scalable applications used by thousands of users 
+•⁠ ⁠Built mobile solutions including real-time chat and face recognition systems 
+•⁠ ⁠Managed end-to-end feature development and deployment 
+ 
+EDUCATION 
+ 
+B. Tech (CSE), Shivalik College of Engineering (UTU) - Dehradun, Uttarakhand - (79.9%)           2018 – 2022 
