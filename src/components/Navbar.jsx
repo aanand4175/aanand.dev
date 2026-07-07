@@ -98,19 +98,22 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="fixed inset-0 z-40 pt-20 glass md:hidden" onClick={() => setIsOpen(false)}>
-          <div className="max-w-6xl mx-auto px-6 py-6 flex flex-col gap-2" onClick={e => e.stopPropagation()}>
+        <div className="fixed inset-0 z-40 md:hidden" onClick={() => setIsOpen(false)}>
+          {/* Glass Background */}
+          <div className="absolute inset-0 bg-black/80 backdrop-blur-2xl" />
+          
+          <div className="relative z-10 max-w-6xl mx-auto px-6 pt-24 pb-6 flex flex-col gap-2" onClick={e => e.stopPropagation()}>
             {navLinks.map(link => (
               <a key={link.name} href={link.href}
                 onClick={() => setIsOpen(false)}
-                className="py-3 px-4 text-white/70 hover:text-white font-medium text-lg rounded-xl hover:bg-white/5 transition-all">
+                className="py-3 px-4 text-white/80 hover:text-white font-medium text-lg rounded-xl hover:bg-white/10 transition-all">
                 {link.name}
               </a>
             ))}
-            <div className="pt-4 flex gap-4">
-              <a href="https://github.com/aanand4175/" target="_blank" className="text-white/40 hover:text-white"><Github size={20} /></a>
-              <a href="https://www.linkedin.com/in/aanand-kumar-1ab7a017b/" target="_blank" className="text-white/40 hover:text-white"><Linkedin size={20} /></a>
-              <a href="mailto:aanand4175@gmail.com" className="text-white/40 hover:text-white"><Mail size={20} /></a>
+            <div className="pt-6 flex gap-5 px-4">
+              <a href="https://github.com/aanand4175/" target="_blank" className="text-white/50 hover:text-white transition-colors"><Github size={22} /></a>
+              <a href="https://www.linkedin.com/in/aanand-kumar-1ab7a017b/" target="_blank" className="text-white/50 hover:text-white transition-colors"><Linkedin size={22} /></a>
+              <a href="mailto:aanand4175@gmail.com" className="text-white/50 hover:text-white transition-colors"><Mail size={22} /></a>
             </div>
           </div>
         </div>

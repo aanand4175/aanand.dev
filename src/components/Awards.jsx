@@ -10,8 +10,9 @@ export default function Awards() {
         {/* Header */}
         <div className="mb-16">
           <p className="font-mono text-accent-green text-xs tracking-widest uppercase mb-3">Recognition</p>
-          <h2 className="font-display font-black text-white text-4xl sm:text-5xl tracking-tight">
-            Awards & <span className="text-gradient-orange" style={{ background: 'linear-gradient(135deg, #ff6b35, #f59e0b)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Achievements</span>
+          <h2 className="font-display font-black text-white text-3xl sm:text-5xl tracking-tight break-words">
+            Awards & <br className="sm:hidden" />
+            <span className="text-gradient-orange" style={{ background: 'linear-gradient(135deg, #ff6b35, #f59e0b)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Achievements</span>
           </h2>
           <p className="text-white/40 mt-4 max-w-lg text-base">
             Recognitions received for outstanding performance and contributions.
