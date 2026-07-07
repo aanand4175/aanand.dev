@@ -38,7 +38,7 @@ export default function Awards() {
               Employee of the Month
             </h3>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
-              Recognized as <strong className="text-white">"The Developer Everyone Can Count On"</strong> for November 2025! 👏
+              Recognized as <strong className="text-white">“The Developer Everyone Can Count On”</strong> for November 2025! 👏
               Awarded for team excellence, dedication, and consistently delivering high-quality production code.
             </p>
 
